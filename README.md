@@ -1,4 +1,4 @@
 # demo
-my first repository
+My first repository
 <br>
 Author- Eshwaree Tondilkar
